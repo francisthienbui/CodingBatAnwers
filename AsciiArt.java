@@ -13,7 +13,17 @@ public class AsciiArt {
 
     public static void main(String[] args) {
 
-        System.out.println("hellow world");
+        System.out.println("hello world");
+        System.out.println("  ______                                 _       ");
+        System.out.println(" |  ____|                               (_)");
+        System.out.println(" | |__     _ __    __ _   _ __     ___   _   ___ ");
+        System.out.println(" |  __|   | '__|  / _` | | '_ \\   / __| | | / __|");
+        System.out.println(" | |      | |    | (_| | | | | | | (__  | | \\__ \\");
+        System.out.println(" |_|      |_|     \\__,_| |_| |_|  \\___| |_| |___/");
+
+        System.out.println();
+
+        System.out.println("hello world");
         System.out.println("  ______                                 _       ");
         System.out.println(" |  ____|                               (_)");
         System.out.println(" | |__     _ __    __ _   _ __     ___   _   ___ ");
